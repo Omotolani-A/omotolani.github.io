@@ -26,6 +26,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hi, I'm **Omotolani Adekunle**, a Systems Engineering student at the University of Lagos, Nigeria, with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Robotics.
+
+I'm particularly interested in how intelligent systems and data-driven approaches can be applied to solve real-world problems, improve decision-making, and develop innovative solutions across different industries.
+
+My learning journey involves exploring machine learning techniques, data analysis, and the practical applications of AI. I'm continuously developing my technical and analytical skills through structured learning programmes, hands-on projects, and collaborative experiences.
+
+Beyond academics, I'm actively involved in innovation-driven communities, volunteering, and leadership initiatives. These experiences have strengthened my interests in problem-solving, project coordination, and working with multidisciplinary teams.
+
+I'm passionate about continuous learning, exploring emerging technologies, and contributing to meaningful solutions at the intersection of engineering and artificial intelligence.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
